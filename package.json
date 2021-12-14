@@ -1,0 +1,19 @@
+{
+  "name": "systemize",
+  "version": "0.0.1",
+  "description": "Systemize is a SvelteKit framework for building scalable design systems for the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Membrane-Consulting/systemize.git"
+  },
+  "author": "Jacob Stordahl",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Membrane-Consulting/systemize/issues"
+  },
+  "homepage": "https://github.com/Membrane-Consulting/systemize#readme"
+}
