@@ -1,0 +1,64 @@
+/* Table of Contents */
+/* 
+1. Color
+  1a. Generics
+  1b. Variations
+  1c. Specifics
+2. Typography
+3. Lines & Radii
+4. Spacing
+5. 
+*/
+
+root {
+  /* color */
+    /* generics */
+    --systemize-color-white: #FFFFFF;
+    --systemize-color-black: #000000;
+    --systemize-color-gray: #000000;
+    --systemize-color-grey: var(--systemize-color-gray);
+    --systemize-color-blue: #FFFFFF;
+    --systemize-color-red: #FFFFFF;
+    --systemize-color-yellow: #FFFFFF;
+    --systemize-color-green: #FFFFFF;
+    --systemize-color-orange: #FFFFFF;
+    --systemize-color-purple: #FFFFFF;
+
+    /* variations */
+      /* light */
+      --systemize-color-gray-l: #000000;
+      --systemize-color-grey-l: var(--systemize-color-gray);
+      --systemize-color-blue-l: #FFFFFF;
+      --systemize-color-red-l: #FFFFFF;
+      --systemize-color-yellow-l: #FFFFFF;
+      --systemize-color-green-l: #FFFFFF;
+      --systemize-color-orange-l: #FFFFFF;
+      --systemize-color-purple-l: #FFFFFF;
+      /* dark */
+      --systemize-color-gray-d: #000000;
+      --systemize-color-grey-d: var(--systemize-color-gray);
+      --systemize-color-blue-d: #FFFFFF;
+      --systemize-color-red-d: #FFFFFF;
+      --systemize-color-yellow-d: #FFFFFF;
+      --systemize-color-green-d: #FFFFFF;
+      --systemize-color-orange-d: #FFFFFF;
+      --systemize-color-purple-d: #FFFFFF;
+
+    /* specifics */
+    --systemize-bg-color: #FFFFFF;
+    --systemize-font-color: #FFFFFF;
+    --systemize-link-color: #FFFFFF;
+    --systemize-visited-link-color: #FFFFFF;
+    --systemize-hovered-link-color: #FFFFFF;
+
+  /* typography */
+    /* font family */
+    --systemize-font-family: system-ui, "Segoe UI", Tahoma;
+    --systemize-font-family-h: system-ui, "Segoe UI", Tahoma;
+    /* font size */
+    /* font weight */
+    /* line height */
+    /* letter spacing */
+  
+  
+}
